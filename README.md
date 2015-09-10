@@ -6,7 +6,8 @@ Script for install some tools for web development on ubuntu
 ## Instruction
 
 Download the script, open the terminal and write
-```$ chmod a+x on ./script.sh 
+```
+   $ chmod a+x on ./script.sh 
    $ sudo sh script.sh
 ```
 
