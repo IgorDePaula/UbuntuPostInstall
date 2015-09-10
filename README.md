@@ -5,7 +5,7 @@ Script for install some tools for web development on ubuntu
 
 ## Instruction
 
-Download the script, open the terminal and write
+[Download](https://github.com/IgorDePaula/UbuntuPostInstall/releases) the script, open the terminal and write
 ```
    $ chmod a+x on ./script.sh 
    $ sudo sh script.sh
@@ -22,6 +22,8 @@ Download the script, open the terminal and write
 -  [phpMyAdmin](http://phpmyadmin.net)
 -  [Node.JS](http://www.nodejs.org)
 -  [cURL](http://curl.haxx.se/)
+-  [Cordova](http://cordova.apache.org)
+-  [Ionic](http://www.ionicframework.com)
 -  [Java (to netbeans)](www.java.com)
 -  [Git (to software version)](http://www.git-scm.com)
 -  [VirtualBox (to virtualization)](https://www.virtualbox.org/)

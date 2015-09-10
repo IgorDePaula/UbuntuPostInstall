@@ -33,4 +33,7 @@ wget https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2_x86_64.deb
 dpkg -i vagrant_1.7.2_x86_64.deb
 echo "## Instalando o docker"
 apt-get install -y docker.io
-echo "## Script finalizado. Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net"
+echo "## Instalando o ionic e o cordova"
+apt-get install -y ant
+npm install -g cordova ionic
+echo "## Script finalizado.  Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net / ionicframework.com / cordova.apache.org"
