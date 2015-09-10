@@ -24,6 +24,8 @@ Script for install some tools for web development on ubuntu
 -  [cURL](http://curl.haxx.se/)
 -  [Cordova](http://cordova.apache.org)
 -  [Ionic](http://www.ionicframework.com)
+-  [Bower](http://www.bower.io/)
+-  [ExpressJS (generator)](http://expressjs.com/starter/generator.html)
 -  [Composer](https://www.getcomposer.org/)
 -  [Java (to netbeans)](www.java.com)
 -  [Git (to software version)](http://www.git-scm.com)

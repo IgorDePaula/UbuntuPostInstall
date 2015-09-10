@@ -39,4 +39,8 @@ apt-get install -y docker.io
 echo "## Instalando o ionic e o cordova"
 apt-get install -y ant
 npm install -g cordova ionic
+echo "## Instalando o Bower"
+npm install -g bower
+echo "## Instalando o express generator"
+npm install express-generator -g
 echo "## Script finalizado.  Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net / getcomposer.org / ionicframework.com / cordova.apache.org"
