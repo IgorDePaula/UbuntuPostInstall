@@ -20,7 +20,7 @@ Download the script, open the terminal and write
 -  [MySQL](https://www.mysql.com/)
 -  unzip (to phpMyAdmin)
 -  [phpMyAdmin](http://phpmyadmin.net)
--  [Node.JS][http://www.nodejs.org] 
+-  [Node.JS](http://www.nodejs.org)
 -  [cURL](http://curl.haxx.se/)
 -  [Java (to netbeans)](www.java.com)
 -  [VirtualBox (to virtualization)](https://www.virtualbox.org/)
