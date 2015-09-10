@@ -30,6 +30,7 @@ Script for install some tools for web development on ubuntu
 -  [Java (to netbeans)](www.java.com)
 -  [MongoDB](http://www.mongodb.org)
 -  [Git (to software version)](http://www.git-scm.com)
+-  [Angular Full Stack (MEAN Stack with socket.io)](https://github.com/DaftMonk/generator-angular-fullstack/)
 -  [VirtualBox (to virtualization)](https://www.virtualbox.org/)
 -  [Vagrant (to shared virtualization)](https://www.vagrantup.com/)
 -  [Docker (to application containers)](https://www.docker.com/)
