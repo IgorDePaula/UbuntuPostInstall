@@ -23,6 +23,7 @@ Download the script, open the terminal and write
 -  [Node.JS](http://www.nodejs.org)
 -  [cURL](http://curl.haxx.se/)
 -  [Java (to netbeans)](www.java.com)
+-  [Git (to software version)](http://www.git-scm.com)
 -  [VirtualBox (to virtualization)](https://www.virtualbox.org/)
 -  [Vagrant (to shared virtualization)](https://www.vagrantup.com/)
 -  [Docker (to application containers)](https://www.docker.com/)

@@ -23,6 +23,8 @@ curl -sL https://deb.nodesource.com/setup_0.12 | bash -
 apt-get install nodejs
 echo "## Instalando o java para o netbeans"
 apt-get install -y openjdk-8-jre openjdk-8-jdk
+echo "## Instalando o Git"
+apt-get install -y git git-core
 echo "## Instalando virtualbox"
 wget http://download.virtualbox.org/virtualbox/4.3.28/virtualbox-4.3_4.3.28-100309~Ubuntu~raring_amd64.deb
 dpkg -i virtualbox-4.3_4.3.28-100309~Ubuntu~raring_amd64.deb
