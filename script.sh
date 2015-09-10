@@ -5,6 +5,9 @@ echo "## Atualizando pacotes desatualizados desde o lancamento"
 apt-get upgrade -y
 echo "## Instalando PHP5"
 apt-get install -y php5
+echo "## Instalando o composer (PHP)"
+curl -sS https://getcomposer.org/installer | php
+mv composer.phar /usr/local/bin/composer
 echo "## Instalando Apache2 e modulo para php"
 apt-get install -y apache2 libapache2-mod-php5
 service apache2 restart
@@ -36,4 +39,4 @@ apt-get install -y docker.io
 echo "## Instalando o ionic e o cordova"
 apt-get install -y ant
 npm install -g cordova ionic
-echo "## Script finalizado.  Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net / ionicframework.com / cordova.apache.org"
+echo "## Script finalizado.  Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net / getcomposer.org / ionicframework.com / cordova.apache.org"

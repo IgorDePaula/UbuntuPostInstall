@@ -24,6 +24,7 @@ Script for install some tools for web development on ubuntu
 -  [cURL](http://curl.haxx.se/)
 -  [Cordova](http://cordova.apache.org)
 -  [Ionic](http://www.ionicframework.com)
+-  [Composer](https://www.getcomposer.org/)
 -  [Java (to netbeans)](www.java.com)
 -  [Git (to software version)](http://www.git-scm.com)
 -  [VirtualBox (to virtualization)](https://www.virtualbox.org/)
