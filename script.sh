@@ -43,4 +43,9 @@ echo "## Instalando o Bower"
 npm install -g bower
 echo "## Instalando o express generator"
 npm install express-generator -g
+echo "## Instalando o MongoDB"
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+apt-get update
+sudo apt-get install -y mongodb-org
 echo "## Script finalizado.  Visite: docker.io / vagrantup.com / vagrantbox.es / nodejs.org / php.net / getcomposer.org / ionicframework.com / cordova.apache.org"
